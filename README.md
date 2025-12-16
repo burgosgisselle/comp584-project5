@@ -10,3 +10,7 @@
 
 ## Solution 4 - My First Async I/O
 <img width="1000" height="681" alt="image" src="https://github.com/user-attachments/assets/e5d2c243-90bb-4e2f-8868-14aac34e0e03" />
+
+## Solution 5 - Filtered Ls
+<img width="985" height="669" alt="image" src="https://github.com/user-attachments/assets/062be648-e629-40b2-a80c-fada8a8d7bc1" />
+
