@@ -7,3 +7,6 @@
 
 ## Solution 3 - My First I/O
 <img width="1051" height="680" alt="image" src="https://github.com/user-attachments/assets/d8cd904c-de88-4f88-9e1b-95e2196cf2a0" />
+
+## Solution 3 - My First Async I/O
+<img width="1000" height="681" alt="image" src="https://github.com/user-attachments/assets/e5d2c243-90bb-4e2f-8868-14aac34e0e03" />
