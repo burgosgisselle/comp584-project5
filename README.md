@@ -4,3 +4,6 @@
 
 ## Solution 2 - Baby Steps
 <img width="1214" height="630" alt="image" src="https://github.com/user-attachments/assets/e17ef0da-da60-4d3d-9cb2-649c9c3233e8" />
+
+## Solution 3 - My First I/O
+<img width="1051" height="680" alt="image" src="https://github.com/user-attachments/assets/d8cd904c-de88-4f88-9e1b-95e2196cf2a0" />
