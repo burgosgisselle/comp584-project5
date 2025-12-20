@@ -14,3 +14,5 @@
 ## Solution 5 - Filtered Ls
 <img width="985" height="669" alt="image" src="https://github.com/user-attachments/assets/062be648-e629-40b2-a80c-fada8a8d7bc1" />
 
+## Solution 6 - Make it Modular 
+<img width="766" height="911" alt="image" src="https://github.com/user-attachments/assets/2efe6ce3-f366-4ef9-a8d1-ecda7bdd5db9" />
