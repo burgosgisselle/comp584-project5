@@ -16,3 +16,6 @@
 
 ## Solution 6 - Make it Modular 
 <img width="766" height="911" alt="image" src="https://github.com/user-attachments/assets/2efe6ce3-f366-4ef9-a8d1-ecda7bdd5db9" />
+
+## Solution 7 - HTTP Client
+<img width="980" height="678" alt="image" src="https://github.com/user-attachments/assets/0fc9964e-a977-440d-9b13-08a905d37338" />
