@@ -35,3 +35,5 @@
 ## Solution 12 - HTTP Uppercaserer
 <img width="921" height="946" alt="image" src="https://github.com/user-attachments/assets/19859590-f5c1-4d5f-84fc-dada781ddb6c" />
 
+## Solution 13 - HTTP JSON API Server
+<img width="934" height="709" alt="image" src="https://github.com/user-attachments/assets/c0364f80-3c95-4297-ba17-4deb60c8d105" />
