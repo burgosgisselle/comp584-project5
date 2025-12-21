@@ -28,3 +28,7 @@
 
 ## Solution 10 - Time Server
 <img width="928" height="649" alt="image" src="https://github.com/user-attachments/assets/97630d45-be1b-47bd-a730-5a52226569ce" />
+
+## Solution 11 - HTTP File Server
+<img width="944" height="741" alt="image" src="https://github.com/user-attachments/assets/eaf1a054-4bfc-43eb-b957-e81705741243" />
+
