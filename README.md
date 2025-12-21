@@ -22,3 +22,7 @@
 
 ## Solution 8 - HTTP Collect
 <img width="943" height="926" alt="image" src="https://github.com/user-attachments/assets/131ec8fd-a1c5-4dbb-a811-b31832a13054" />
+
+## Solution 9 - Juggling Async
+<img width="936" height="939" alt="image" src="https://github.com/user-attachments/assets/16da8491-f08b-4439-9e0b-ff2855f48fd2" />
+
