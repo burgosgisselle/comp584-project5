@@ -32,3 +32,6 @@
 ## Solution 11 - HTTP File Server
 <img width="944" height="741" alt="image" src="https://github.com/user-attachments/assets/eaf1a054-4bfc-43eb-b957-e81705741243" />
 
+## Solution 12 - HTTP Uppercaserer
+<img width="921" height="946" alt="image" src="https://github.com/user-attachments/assets/19859590-f5c1-4d5f-84fc-dada781ddb6c" />
+
