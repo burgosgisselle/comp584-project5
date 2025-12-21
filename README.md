@@ -26,5 +26,5 @@
 ## Solution 9 - Juggling Async
 <img width="936" height="939" alt="image" src="https://github.com/user-attachments/assets/16da8491-f08b-4439-9e0b-ff2855f48fd2" />
 
-## Solution 10 0 Time Server
+## Solution 10 - Time Server
 <img width="928" height="649" alt="image" src="https://github.com/user-attachments/assets/97630d45-be1b-47bd-a730-5a52226569ce" />
