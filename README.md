@@ -19,3 +19,6 @@
 
 ## Solution 7 - HTTP Client
 <img width="980" height="678" alt="image" src="https://github.com/user-attachments/assets/0fc9964e-a977-440d-9b13-08a905d37338" />
+
+## Solution 8 - HTTP Collect
+<img width="943" height="926" alt="image" src="https://github.com/user-attachments/assets/131ec8fd-a1c5-4dbb-a811-b31832a13054" />
